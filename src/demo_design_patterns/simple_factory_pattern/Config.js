@@ -2,7 +2,7 @@ import SeckillProduct from './domains/SeckillProduct.js'
 import SpecialProduct from './domains/SpecialProduct.js'
 
 const TYPE = {
-    'SPECIAL': 'SPECIAL', 'SECKILL': 'SPECIAL'
+    'SPECIAL': 'SPECIAL', 'SECKILL': 'SECKILL'
 }
 
 const PRODUCT_TYPE_MAP = {
